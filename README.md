@@ -12,13 +12,13 @@ retain copyright ownership.
 ## How to sign?
 
 Download the appropriate agreement below, sign it, and email it
-to [domainblocks@protonmail.com](mailto:domainblocks@protonmail.com). You only need to sign once.
+to [domainblocks@protonmail.com](mailto:domainblocks@protonmail.com?subject=CLA%20-%20Individual&body=Attached%20is%20the%20signed%20CLA.). You only need to sign once.
 
 ## What if I don't fully own my contribution?
 
 If your employer may have rights over your contribution (e.g. it was written on company time or using company
 resources), do not sign the individual CLA. Instead, have an authorised representative at your company sign the Entity
-CLA and send it to [domainblocks@protonmail.com](mailto:domainblocks@protonmail.com).
+CLA and send it to [domainblocks@protonmail.com](mailto:domainblocks@protonmail.com?subject=CLA%20-%20Entity&body=Attached%20is%20the%20signed%20CLA.).
 
 ## Documents
 
