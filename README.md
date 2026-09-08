@@ -9,6 +9,12 @@ To support the long-term sustainability of the project, including the possibilit
 we need to ensure we have the necessary rights over contributions. The CLA grants DomainBlocks those rights while you
 retain copyright ownership.
 
+## Covered repositories
+
+This CLA applies to contributions made to the following repositories:
+
+- [DomainBlocks](https://github.com/DomainBlocks/domain-blocks)
+
 ## How to sign?
 
 Download the appropriate agreement below, sign it, and email it
